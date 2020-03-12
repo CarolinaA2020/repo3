@@ -38,4 +38,7 @@ public class Main {
 	public void MetodoLuis v2(){
 		System.out.print("Carolina");
 	}
+	public void MetodoCarolina(){
+		System.out.print("Carolina");
+	}	
 }
